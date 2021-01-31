@@ -5,3 +5,4 @@ Testing the differences between Android Studio Kotlin and Flutter Dart for a sim
 
 Use activity_main.xml, Counter.kt, MainActivity.kt for Android Studio Project in Kotlin
 
+Use counter.dart and main.dart in the lib directory for flutter application
